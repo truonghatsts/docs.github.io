@@ -1,3 +1,8 @@
+<style>
+    body { background-color: grey; }
+    pre, pre:not([class]) { background-color: red; }
+</style>
+
 Kotona Shadbaghissa Pari säilytti tyynynsä alla Abdullahilta saamaansa vanhaa peltistä teerasiaa.
 
 	 Sen salpa oli ruosteinen, ja sen kannessa oli partasuinen ja turbaanipäinen intialainen, jolla oli pitkä punainen kaapu ja teekuppi molemmissa käsissä.
