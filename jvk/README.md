@@ -2,6 +2,9 @@
    body { 
       background-color: #002B36; 
       color: #93A1A1;
+      font-size: 150%;
+      width: 680px;
+      margin: 0 auto;
    }
 </style>
 
