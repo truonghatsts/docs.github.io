@@ -1,6 +1,8 @@
 <style>
-   body { background-color: grey; }
-   pre, pre:not([class]) { background-color: red; }
+   body { 
+      background-color: #002B36; 
+      color: #93A1A1;
+   }
 </style>
 
 Kotona Shadbaghissa Pari säilytti tyynynsä alla Abdullahilta saamaansa vanhaa peltistä teerasiaa.
